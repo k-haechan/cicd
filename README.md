@@ -40,6 +40,5 @@
     - Allowed merge methods
       - Allow squash merging (리베이스 병합 허용)
 
-  
-
+  - gogogogo
 

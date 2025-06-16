@@ -20,6 +20,9 @@
     - Require status checks to pass before merging (병합 전 상태 검사 통과 필요)
     - Allowed merge methods
       - Allow rebase merging (리베이스 병합 허용)
-  - Require status to pass
-    - Require branches to be up to date before merging (병합 전 브랜치 최신 상태 필요)
-    - Do not require status checks on creation (생성 시 상태 검사 필요 없음)
+
+[//]: # (  - Require status to pass)
+
+[//]: # (    - Require branches to be up to date before merging &#40;병합 전 브랜치 최신 상태 필요&#41;)
+
+[//]: # (    - Do not require status checks on creation &#40;생성 시 상태 검사 필요 없음&#41;)

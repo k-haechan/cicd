@@ -39,3 +39,4 @@
     - Require conversation resolution before merging (병합 전 대화 해결 필요)
     - Allowed merge methods
       - Allow squash merging (리베이스 병합 허용)
+
